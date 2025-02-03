@@ -1,2 +1,2 @@
 # Excel Project Repository
-Please find all my excel projects here. Feel free to downlaod and use the files.
+Here are all my Excel projects. Feel free to download and use the files as needed.
